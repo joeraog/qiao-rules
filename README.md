@@ -1,2 +1,2 @@
-# qiao-shadowrocket-rules
-Shadowrocket 规则订阅
+# 乔的规则集，自己设置的规则集
+singbox规则集
